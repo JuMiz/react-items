@@ -14,7 +14,7 @@
          "id":9,
          "type":"DBMS_OUTPUT"
       },
-      "info":"<b>DBMS_OUTPUT</b> is not natively supported in PostgreSQL. However, the <b>orafce</b> extension can be used to emulate a subset of common functions and packages. Orafce is supported in Amazon RDS and Aurora PostgreSQL 9.6.6 and higher. Orafce provides compatible functions, data type and packages which can be used \"as-is\" within PostgreSQL. <a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.html\" target=\"_blank\">Read more</a>",
+      "info":"",
       "timeCost":0,
       "multiplierValues":[
          {
